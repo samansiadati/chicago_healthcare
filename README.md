@@ -16,5 +16,11 @@ It combines **geospatial analysis**, **data visualization**, and **storytelling*
 
 ---
 
-## 📂 Project Structure
+## 🧪 Dependencies
+
+Install required packages:
+
+```bash
+pip install geopandas pandas matplotlib contextily folium pillow shapely
+
 
