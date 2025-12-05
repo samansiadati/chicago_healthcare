@@ -1,4 +1,4 @@
-# 🏙️ Chicago Health Story Generator
+# 🏙️ Chicago Health - LBW
 
 This project analyzes public health disparities across Chicago with a focus on **Low Birth Weight** (LBW) among newborns.  
 It combines **geospatial analysis**, **data visualization**, and **storytelling** to highlight inequalities across the city’s 77 community areas.
